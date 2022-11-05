@@ -3,11 +3,11 @@ HOTEL LISTING API
 
 Kostya Overchenko
 
-.Net 6 <br>
-EntityFrameworkCore<br>
-AutoMapper<br>
-Serilog<br>
-IdentityCore<br>
+*.Net 6* <br>
+*EntityFramewo*rkCore<br>
+*AutoMapper*<br>
+*Serilog*<br>
+*IdentityCore*<br>
 
 API for managing hotels.
 
