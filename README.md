@@ -13,7 +13,7 @@ API for managing hotels.
 
 Run Command:
 
-	cd HotelListing.API/HotelListing.API dotnet run 
+	cd ./HotelListing.API dotnet run 
 
 what I learned
 -------------------
