@@ -16,7 +16,7 @@ Run Command:
 	cd HotelListing.API
 	dotnet run 
 
-what I learned
+What I learned
 -------------------
 
 - Logging
